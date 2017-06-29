@@ -1,4 +1,5 @@
-﻿This project contain sample projects of how to create custom configuration section to .Net Framework applications.
+﻿This project contain sample projects of how to create custom configuration sections to .Net Framework applications.
+
 Those samples can be used on app.config or web.config as well.
 
 References
