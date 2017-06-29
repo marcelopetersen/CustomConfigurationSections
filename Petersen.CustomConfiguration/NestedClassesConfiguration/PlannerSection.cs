@@ -6,7 +6,7 @@ namespace Petersen.CustomConfiguration.NestedClassesConfiguration
     public class PlannerSection : ConfigurationSection
     {
         /*///////////////////////////////////////////////////////////////////
-            // With no root elements, set ROOT_ELEMENT_NAME="sections"
+            // With root element, set ROOT_ELEMENT_NAME="sections"
             <plannerSection>
                 <sections>
                     <section id="teams">
